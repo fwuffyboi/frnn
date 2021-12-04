@@ -1,0 +1,1 @@
+1 - Project FRNN's RNN only needs about 50 - 75 epoch's of training to work well / successfully.
