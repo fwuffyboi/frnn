@@ -48,3 +48,6 @@ vandercat
 CatOfTheStorm
 ChaoticK9
 DrWildlife
+FurFest
+BiggestLittleFC
+HousepetsComic

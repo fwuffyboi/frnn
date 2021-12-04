@@ -1,0 +1,6 @@
+test.py
+*.log
+*.json
+twitter_scraper_selenium/__pycache__
+output_structure.MD
+*.csv

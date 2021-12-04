@@ -1,0 +1,2 @@
+run = "python3 ts.py"
+# run = "python3 meanUserLength.py"
