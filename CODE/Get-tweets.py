@@ -1,7 +1,7 @@
 from twitter_scraper_selenium import scrap_profile
 import json
 
-usernameFile = open("C:\\Users\\User1\\Desktop\\PROJECT_FRNN\\ASSETS\\usernames.txt", "r")
+usernameFile = open("C:\\Users\\User1\\Desktop\\PROJECT-FRNN\\ASSETS\\usernames.txt", "r")
 
 
 def getTweets():
