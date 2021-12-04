@@ -1,0 +1,381 @@
+1638294259362	geckodriver	INFO	Listening on 127.0.0.1:60922
+1638294262382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileI1cgdg"
+*** You are running in headless mode.
+1638294263500	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileI1cgdg\\search.json.mozlz4", (void 0)))
+1638294266413	Marionette	INFO	Listening on port 60930
+1638294266694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638294266699	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60921","noProxy":[],"sslProxy":"127.0.0.1:60921"}
+1638294317889	Marionette	INFO	Stopped listening on port 60930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638294347074	geckodriver	INFO	Listening on 127.0.0.1:61041
+1638294350082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile2PctIk"
+*** You are running in headless mode.
+1638294350586	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile2PctIk\\search.json.mozlz4", (void 0)))
+1638294352476	Marionette	INFO	Listening on port 61049
+1638294352748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638294352754	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61040","noProxy":[],"sslProxy":"127.0.0.1:61040"}
+1638294409406	Marionette	INFO	Stopped listening on port 61049
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638294488499	geckodriver	INFO	Listening on 127.0.0.1:61169
+1638294491531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile5DcKmL"
+*** You are running in headless mode.
+1638294491933	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile5DcKmL\\search.json.mozlz4", (void 0)))
+1638294493810	Marionette	INFO	Listening on port 61177
+1638294494201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638294494205	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61168","noProxy":[],"sslProxy":"127.0.0.1:61168"}
+1638294545742	Marionette	INFO	Stopped listening on port 61177
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638295577192	geckodriver	INFO	Listening on 127.0.0.1:61344
+1638295580225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilePRv9o0"
+*** You are running in headless mode.
+1638295580656	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilePRv9o0\\search.json.mozlz4", (void 0)))
+1638295582588	Marionette	INFO	Listening on port 61352
+1638295582900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638295582904	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61343","noProxy":[],"sslProxy":"127.0.0.1:61343"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilei40278"
+*** You are running in headless mode.
+1638295663807	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilei40278\\search.json.mozlz4", (void 0)))
+1638295665758	Marionette	INFO	Listening on port 61461
+1638295666092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638295666096	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61452","noProxy":[],"sslProxy":"127.0.0.1:61452"}
+1638295666426	Marionette	INFO	Stopped listening on port 61461
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638295730072	geckodriver	INFO	Listening on 127.0.0.1:61503
+1638295733073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileQ3dlMI"
+*** You are running in headless mode.
+1638295733472	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileQ3dlMI\\search.json.mozlz4", (void 0)))
+1638295735514	Marionette	INFO	Listening on port 61512
+1638295735765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638295735770	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61502","noProxy":[],"sslProxy":"127.0.0.1:61502"}
+1638295785168	Marionette	INFO	Stopped listening on port 61512
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638295799869	geckodriver	INFO	Listening on 127.0.0.1:61628
+1638295802875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilexbTyz2"
+*** You are running in headless mode.
+1638295803309	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilexbTyz2\\search.json.mozlz4", (void 0)))
+1638295805208	Marionette	INFO	Listening on port 61636
+1638295805559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638295805563	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61627","noProxy":[],"sslProxy":"127.0.0.1:61627"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilexYT2kw"
+*** You are running in headless mode.
+1638295844516	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilexYT2kw\\search.json.mozlz4", (void 0)))
+1638295846414	Marionette	INFO	Listening on port 61737
+1638295846757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638295846762	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61728","noProxy":[],"sslProxy":"127.0.0.1:61728"}
+1638295896663	Marionette	INFO	Stopped listening on port 61737
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638296017140	geckodriver	INFO	Listening on 127.0.0.1:61932
+1638296020156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofiledgMq6Y"
+*** You are running in headless mode.
+1638296020588	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofiledgMq6Y\\search.json.mozlz4", (void 0)))
+1638296022524	Marionette	INFO	Listening on port 61942
+1638296022833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296022838	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61931","noProxy":[],"sslProxy":"127.0.0.1:61931"}
+1638296023213	Marionette	INFO	Stopped listening on port 61942
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638296099025	geckodriver	INFO	Listening on 127.0.0.1:62112
+1638296102035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileldcDfp"
+*** You are running in headless mode.
+1638296102430	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileldcDfp\\search.json.mozlz4", (void 0)))
+1638296104371	Marionette	INFO	Listening on port 62147
+1638296104732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296104737	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62111","noProxy":[],"sslProxy":"127.0.0.1:62111"}
+1638296105045	Marionette	INFO	Stopped listening on port 62147
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 9688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1638296117428	geckodriver	INFO	Listening on 127.0.0.1:62250
+1638296120489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilejaUS9N"
+*** You are running in headless mode.
+1638296120877	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilejaUS9N\\search.json.mozlz4", (void 0)))
+1638296122934	Marionette	INFO	Listening on port 62270
+1638296123184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296123189	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62249","noProxy":[],"sslProxy":"127.0.0.1:62249"}
+1638296175462	Marionette	INFO	Stopped listening on port 62270
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638296270448	geckodriver	INFO	Listening on 127.0.0.1:62985
+1638296273453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilemDqFQd"
+*** You are running in headless mode.
+1638296273859	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilemDqFQd\\search.json.mozlz4", (void 0)))
+1638296275727	Marionette	INFO	Listening on port 62997
+1638296276110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296276115	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62984","noProxy":[],"sslProxy":"127.0.0.1:62984"}
+1638296326138	Marionette	INFO	Stopped listening on port 62997
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638296350673	geckodriver	INFO	Listening on 127.0.0.1:63595
+1638296353687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileXjgh2p"
+*** You are running in headless mode.
+1638296354109	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileXjgh2p\\search.json.mozlz4", (void 0)))
+1638296356467	Marionette	INFO	Listening on port 63627
+1638296356878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296356888	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63594","noProxy":[],"sslProxy":"127.0.0.1:63594"}
+1638296406023	Marionette	INFO	Stopped listening on port 63627
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1638296479325	geckodriver	INFO	Listening on 127.0.0.1:64575
+1638296482375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilebggK5G"
+*** You are running in headless mode.
+1638296482773	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilebggK5G\\search.json.mozlz4", (void 0)))
+1638296484681	Marionette	INFO	Listening on port 64607
+1638296485051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296485056	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:64574","noProxy":[],"sslProxy":"127.0.0.1:64574"}
+1638296540508	Marionette	INFO	Stopped listening on port 64607
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638296662069	geckodriver	INFO	Listening on 127.0.0.1:49574
+1638296665094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilehciwEe"
+*** You are running in headless mode.
+1638296665514	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilehciwEe\\search.json.mozlz4", (void 0)))
+1638296667303	Marionette	INFO	Listening on port 49594
+1638296667758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296667763	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49573","noProxy":[],"sslProxy":"127.0.0.1:49573"}
+1638296716339	Marionette	INFO	Stopped listening on port 49594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1638296780968	geckodriver	INFO	Listening on 127.0.0.1:50546
+1638296783991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilePD32yT"
+*** You are running in headless mode.
+1638296784431	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilePD32yT\\search.json.mozlz4", (void 0)))
+1638296786390	Marionette	INFO	Listening on port 50572
+1638296786656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638296786661	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50545","noProxy":[],"sslProxy":"127.0.0.1:50545"}
+1638296838660	Marionette	INFO	Stopped listening on port 50572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638297049839	geckodriver	INFO	Listening on 127.0.0.1:52469
+1638297052863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile0Q7xH4"
+*** You are running in headless mode.
+1638297053338	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile0Q7xH4\\search.json.mozlz4", (void 0)))
+1638297055783	Marionette	INFO	Listening on port 52491
+1638297056025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638297056030	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:52468","noProxy":[],"sslProxy":"127.0.0.1:52468"}
+1638297109312	Marionette	INFO	Stopped listening on port 52491
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638299272760	geckodriver	INFO	Listening on 127.0.0.1:62138
+1638299275795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilekFfuDQ"
+*** You are running in headless mode.
+1638299276220	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofilekFfuDQ\\search.json.mozlz4", (void 0)))
+1638299278169	Marionette	INFO	Listening on port 62146
+1638299278450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638299278457	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62137","noProxy":[],"sslProxy":"127.0.0.1:62137"}
+1638299331362	Marionette	INFO	Stopped listening on port 62146
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638299403184	geckodriver	INFO	Listening on 127.0.0.1:58255
+1638299406216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile3e3iEg"
+*** You are running in headless mode.
+1638299406629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofile3e3iEg\\search.json.mozlz4", (void 0)))
+1638299408715	Marionette	INFO	Listening on port 58263
+1638299408896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638299408902	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58254","noProxy":[],"sslProxy":"127.0.0.1:58254"}
+1638299461420	Marionette	INFO	Stopped listening on port 58263
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638300082001	geckodriver	INFO	Listening on 127.0.0.1:51475
+1638300085034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileW5NzsG"
+*** You are running in headless mode.
+1638300085521	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileW5NzsG\\search.json.mozlz4", (void 0)))
+1638300087571	Marionette	INFO	Listening on port 51483
+1638300087731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638300087738	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51474","noProxy":[],"sslProxy":"127.0.0.1:51474"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f3ada2b5.js, line 1: Error: ApiError: https://api.twitter.com/1.1/help/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+ing" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileThwkEn"
+*** You are running in headless mode.
+1638300105571	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileThwkEn\\search.json.mozlz4", (void 0)))
+1638300107653	Marionette	INFO	Listening on port 51611
+1638300107766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638300107772	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51595","noProxy":[],"sslProxy":"127.0.0.1:51595"}
+1638300157423	Marionette	INFO	Stopped listening on port 51611
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638302125715	geckodriver	INFO	Listening on 127.0.0.1:53401
+1638302128774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileH5Xul9"
+*** You are running in headless mode.
+1638302129351	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileH5Xul9\\search.json.mozlz4", (void 0)))
+1638302131345	Marionette	INFO	Listening on port 53417
+1638302131461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638302131466	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53400","noProxy":[],"sslProxy":"127.0.0.1:53400"}
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.ff2bc235.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.ff2bc235.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.ff2bc235.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.ff2bc235.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.ff2bc235.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 68 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.7ecaa2e5.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 191 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.eaa48e45.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 273 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.f0cec7f5.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.ff2bc235.js)
+JavaScript error: https://twitter.com/broitscody, line 131: ChunkLoadError: Loading chunk 196 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.Dropdown.77745395.js)
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f3ada2b5.js, line 1: Error: ApiError: https://api.twitter.com/1.1/help/settings.json HTTP-0 codes:[1004] trace_ids:[null]
+ing" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileiFax96"
+*** You are running in headless mode.
+1638302232424	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileiFax96\\search.json.mozlz4", (void 0)))
+1638302234344	Marionette	INFO	Listening on port 53906
+1638302234759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638302234765	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53885","noProxy":[],"sslProxy":"127.0.0.1:53885"}
+1638302268316	Marionette	INFO	Stopped listening on port 53906
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638302270208	geckodriver	INFO	Listening on 127.0.0.1:54171
+1638302273242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileIHHlU6"
+*** You are running in headless mode.
+1638302273770	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileIHHlU6\\search.json.mozlz4", (void 0)))
+1638302275776	Marionette	INFO	Listening on port 60315
+1638302275962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638302275971	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54170","noProxy":[],"sslProxy":"127.0.0.1:54170"}
+1638302307777	Marionette	INFO	Stopped listening on port 60315
+1638302309642	geckodriver	INFO	Listening on 127.0.0.1:60552
+1638302312685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileAf9BMh"
+*** You are running in headless mode.
+1638302313297	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileAf9BMh\\search.json.mozlz4", (void 0)))
+1638302315148	Marionette	INFO	Listening on port 60574
+1638302315358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638302315364	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60551","noProxy":[],"sslProxy":"127.0.0.1:60551"}
+1638302336738	Marionette	INFO	Stopped listening on port 60574
+1638302338350	geckodriver	INFO	Listening on 127.0.0.1:60782
+1638302341398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileL8b2DW"
+*** You are running in headless mode.
+1638302341827	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User1\\AppData\\Local\\Temp\\rust_mozprofileL8b2DW\\search.json.mozlz4", (void 0)))
+1638302343760	Marionette	INFO	Listening on port 60811
+1638302344083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638302344088	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60781","noProxy":[],"sslProxy":"127.0.0.1:60781"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.f3ada2b5.js, line 1: Error: ApiError: https://api.twitter.com/1.1/help/settings.json HTTP-0 codes:[1004] trace_ids:[null]
