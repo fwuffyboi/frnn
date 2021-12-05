@@ -14,4 +14,4 @@ please tell me at @fwuffyboi on twitter or "BISCUITISNOTACOOKIE@protonmail.com".
 
 - Please take into account that the github repo page will / could be upto 1 - 3 days behind actual development schedule.
 
-- You / anywone is free to use this project and its entirety under the "MIT" license.
+- You / anyone is free to use this project and its entirety under the "MIT" license.
