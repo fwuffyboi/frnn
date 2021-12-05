@@ -10,8 +10,8 @@ If you see this project and the AI has tweeted something offensive and / or some
 please tell me at @fwuffyboi on twitter or "BISCUITISNOTACOOKIE@protonmail.com". Thank you for reading!
 
 ### Advisories:
-- This project uses about 48 000 tweets from 72 accounts. These tweets and accounts are easily and publicly available in the project folders. you can find the raw tweets data in the "rawTrainingData.txt" file. You can also find the used accounts in the "usernames.txt" file. If you wish to have your tweets / usernames removed from this project entirely, contact me at "BISCUITISNOTACOOKIE@protonmail.com" and i will be happy to remove them.
+- This project uses about 48 000 tweets from 72 accounts. These tweets and accounts are easily and publicly available in the project folders. you can find the raw tweets data in the "rawTrainingData.txt" file. You can also find the used accounts in the "ASSETS/usernames.txt" file. If you wish to have your tweets / usernames removed from this project entirely, contact me at "BISCUITISNOTACOOKIE@protonmail.com" and i will be happy to remove them.
 
-- Please take into account that the github repo page will / could be upto 1 - 3 days behind actual development schedule.
+- Please take into account that the github repo page will / could be upto 1 - 3 days behind the actual development schedule.
 
 - You / anyone is free to use this project and its entirety under the "MIT" license.
