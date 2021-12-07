@@ -59,6 +59,6 @@
     "timeout": 300,
     "tests": ["3e9a2912-c9fa-4ff2-9729-edcd82481f21"]
   }],
-  "urls": ["https://twitter.com/"],
+  "urls": ["https://twitter.com/", "https://twitter.com/compose/tweet"],
   "plugins": []
 }
