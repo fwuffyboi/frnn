@@ -2,7 +2,7 @@ def oneStep2():
     import tensorflow as tf
     print(tf.__version__)
 
-    
+
     tf.saved_model.LoadOptions(
         allow_partial_checkpoint=False, experimental_io_device=None,
         experimental_skip_checkpoint=False
