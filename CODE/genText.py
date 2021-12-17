@@ -1,7 +1,21 @@
 def oneStep2():
     import tensorflow as tf
-    one_step_reloaded = tf.saved_model.load(
-        "C:\\Users\\User1\\Desktop\\Desktop\\PROJECTS\\currentProjects\\PROJECT-FRNN\\PROJECT_FRNN_MODEL")
+    print(tf.__version__)
+
+    
+    tf.saved_model.LoadOptions(
+        allow_partial_checkpoint=False, experimental_io_device=None,
+        experimental_skip_checkpoint=False
+    )
+
+    filepath = "C:\\Users\\User1\\Desktop\\Desktop\\PROJECTS\\currentProjects\\PROJECT-FRNN\\PROJECT_FRNN_MODEL"
+
+    one_step_reloaded = tf.keras.models.load_model(
+        filepath
+    )
+    # tf.saved_model.load(export_dir=filepath,)
+
+    print(one_step_reloaded)
 
     states = None
     next_char = tf.constant(['ROMEO:'])
