@@ -22,7 +22,7 @@ def trainRNN():
     Change the following line to run this code on your own data.
     """
 
-    path_to_file = "smolTrainingData.txt"  # tf.keras.utils.get_file('smolFileContent.txt', 'https://github.com/fwuffyboi/PROJECT-FRNN/blob/main/content_got/smolFileContent')
+    path_to_file = "ssmol.txt"  # tf.keras.utils.get_file('smolFileContent.txt', 'https://github.com/fwuffyboi/PROJECT-FRNN/blob/main/content_got/smolFileContent')
 
     """### Read the data
     
@@ -76,10 +76,8 @@ def trainRNN():
 
     tf.strings.reduce_join(chars, axis=-1).numpy()
 
-
     def text_from_ids(ids):
         return tf.strings.reduce_join(chars_from_ids(ids), axis=-1)
-
 
     """### The prediction task
     
@@ -126,12 +124,10 @@ def trainRNN():
     Here's a function that takes a sequence as input, duplicates, and shifts it to align the input and label for each timestep:
     """
 
-
     def split_input_target(sequence):
         input_text = sequence[:-1]
         target_text = sequence[1:]
         return input_text, target_text
-
 
     split_input_target(list("Tensorflow"))
 
@@ -183,7 +179,6 @@ def trainRNN():
     # Number of RNN units
     rnn_units = 1024
 
-
     class MyModel(tf.keras.Model):
         def __init__(self, vocab_size, embedding_dim, rnn_units):
             super().__init__(self)
@@ -205,7 +200,6 @@ def trainRNN():
                 return x, states
             else:
                 return x
-
 
     model = MyModel(
         # Be sure the vocabulary size matches the `StringLookup` layers.
@@ -314,7 +308,6 @@ def trainRNN():
     The following makes a single step prediction:
     """
 
-
     class OneStep(tf.keras.Model):
         def __init__(self, model, chars_from_ids, ids_from_chars, temperature=1.0):
             super().__init__()
@@ -358,7 +351,6 @@ def trainRNN():
 
             # Return the characters and model state.
             return predicted_chars, states
-
 
     one_step_model = OneStep(model, chars_from_ids, ids_from_chars)
 
@@ -436,7 +428,6 @@ def trainRNN():
     2. Calculate the updates and apply them to the model using the optimizer.
     """
 
-
     class CustomTraining(MyModel):
         @tf.function
         def train_step(self, inputs):
@@ -449,8 +440,9 @@ def trainRNN():
 
             return {'loss': loss}
 
-
-    """The above implementation of the `train_step` method follows [Keras' `train_step` conventions](https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit). This is optional, but it allows you to change the behavior of the train step and still use keras' `Model.compile` and `Model.fit` methods."""
+    """The above implementation of the `train_step` method follows [Keras' `train_step` conventions](
+    https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit). This is optional, but it allows you to 
+    change the behavior of the train step and still use keras' `Model.compile` and `Model.fit` methods. """
 
     model = CustomTraining(
         vocab_size=len(ids_from_chars.get_vocabulary()),
@@ -490,3 +482,6 @@ def trainRNN():
         print("_" * 80)
 
     model.save_weights(checkpoint_prefix.format(epoch=epoch))
+
+
+trainRNN()
