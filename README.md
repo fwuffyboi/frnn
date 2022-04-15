@@ -25,6 +25,6 @@ If you wish to have your tweets / usernames / account name removed from this pro
 
 
 ### Advisories:
-- Please take into account that the github repo page will / could be up to 1 - 3 days behind the actual development schedule.
+- Please take into account that the github repo page will / could be up to 1 - 3 days (weeks (because im making it)) behind the actual development schedule.
 
 - You / anyone is free to use this project and its entirety under the "MIT" license.
