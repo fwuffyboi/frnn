@@ -1,6 +1,10 @@
 # PROJECT FRNN
 
 
+## Disclaimer:
+Was thinking about gonna try to do more of this project but NO. elon decided to NUKE twitter and make it somehow WORSE, so i will not be able to continue this. not to mention the twitter api sucks as well. i never understood it. i literally had to use chatgpt to get it to even slightly make sense. so any hope of this project working is non existant now. if you wanna fork or anything do it idc. but youre probably better off making it from scratch yourself if you ever bother to even attempt understanding the use of up to 3 different keys for a single endpoint of the barren wasteland of absolute s*it that is the twitter api.
+
+
 ## Description
 This project uses an RNN (Recurrent Neural Network) to generate text. 
 The text this generates, is the tweet that shall be posted.
